@@ -8,6 +8,7 @@ Personal notes for relearning **Spring Boot** and full-stack project architectur
 
 | File | What's inside |
 |---|---|
+| [`00_PART1_SHORT_NOTES.md`](./01_SpringBoot_Notes/00_PART1_SHORT_NOTES.md) | **Short, easy version of this whole folder**, linked to resume + JD. Read this if short on time |
 | [`SPRINGBOOT_REFRESHER.md`](./01_SpringBoot_Notes/SPRINGBOOT_REFRESHER.md) | Core Spring Boot concepts: annotations, layers, DI, JPA/Hibernate, Spring Security + JWT, DTOs vs Entities, cheat sheet |
 | [`PROJECT_FLOW.md`](./01_SpringBoot_Notes/PROJECT_FLOW.md) | How the full-stack app works end to end: request lifecycle and "button click → API → DB → response" traces |
 | [`DEBUGGING.md`](./01_SpringBoot_Notes/DEBUGGING.md) | Symptom-first troubleshooting: HTTP status codes, Spring/Java exceptions, startup errors, frontend issues |
