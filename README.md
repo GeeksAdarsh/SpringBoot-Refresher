@@ -34,6 +34,13 @@ Personal notes for relearning **Spring Boot** and full-stack project architectur
 | [`13_My_Resume_Vs_JD.md`](./02_Interview_Prep_WindyStreet/13_My_Resume_Vs_JD.md) | Resume vs job match, gaps, likely questions on every resume point, mini project idea |
 | [`14_Question_Bank.md`](./02_Interview_Prep_WindyStreet/14_Question_Bank.md) | Q&A: website flow, REST, Spring/Java, React, DB, every project, cloud and cost work, 24 scenario questions |
 
+### `03_Interview_Prep_Infosys/`: Interview prep for Infosys Java, Spring Boot Developer
+
+| File | What's inside |
+|---|---|
+| [`00_START_HERE.md`](./03_Interview_Prep_Infosys/00_START_HERE.md) | Infosys JD in easy words, JD vs existing notes, gaps, planned files |
+| [`01_My_Project_Stories.md`](./03_Interview_Prep_Infosys/01_My_Project_Stories.md) | Deep project explanation (Telgoo5, Rnpsoft, CodeCampus, AWS) + 10 easy STAR stories |
+
 ## How to use this
 
 1. Start with `02_Interview_Prep_WindyStreet/00_START_HERE.md` for the study plan.
